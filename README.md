@@ -18,7 +18,6 @@ Features:
 Technologies Used:
 
 - Language: C++
-- Header Files: <iostream>, <iomanip>
 - Concepts Used:
   - Classes and Objects
   - Arrays
